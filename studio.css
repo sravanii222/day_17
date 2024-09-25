@@ -1,0 +1,35 @@
+*{
+    background-color: bisque;
+    margin: 0;
+    padding: 10px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+}
+button{
+    border-radius: 18px;
+    font-size: 20px;
+    margin: 10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3{
+    margin-top: 300px;
+    width: 250px;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+   margin-top: 190px;
+    font-size: 800px;
+}
